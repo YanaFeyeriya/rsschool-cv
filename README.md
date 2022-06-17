@@ -1,2 +1,2 @@
 # rsschool-cv
-CV
+https://YanaFeyeriya.github.io/rsschool-cv/cv
