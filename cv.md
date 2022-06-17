@@ -78,28 +78,25 @@ function multiply(a, b){
 ```
 
 ### **WORK EXPERIENCE** :
-2016  - 2020 - visa support manager, site administrator
++ __2016  - 2020 - visa support manager, site administrator__
 
-JZ PARTNER GROUP MERKEZ MAHALLESI ABİDE-İ HÜRRİYET CADDESİ KAPİ No: 211 DAİRE No: 64, 34360 Şişli/İstanbul
-
-Istanbul , Turkey 
+>JZ PARTNER GROUP MERKEZ MAHALLESI ABİDE-İ HÜRRİYET CADDESİ KAPİ No: 211 DAİRE No: 64, 34360 Şişli/İstanbul
+>Istanbul , Turkey  
 
 www.jzpartnergroup.com
 
-2020  -  regional manager, site administrator GRAND SUPPLY Co.,LTD
++ __2020  -  regional manager, site administrator GRAND SUPPLY Co.,LTD__
 
-Gwonseong-ro 731 , office 1405
-
-Paldal-gu, Suwon-si, Gyeonggi-do
-
-South Korea
+>Gwonseong-ro 731 , office 1405
+>Paldal-gu, Suwon-si, Gyeonggi-do
+>South Korea
 
 www.grandsupply.org
 
 
 
 
-I hereby give consent for my personal data included in the application to be processed for the purposes of the recruitment process in accordance with Art.6 paragraph 1 letter a of the Regulation of the European Parliament and of the Council (EU) 2016/679 of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+>hereby give consent for my personal data included in the application to be processed for the purposes of the recruitment process in accordance with Art.6 paragraph 1 letter a of the Regulation of the European Parliament and of the Council (EU) 2016/679 of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
 
 
 ### links
