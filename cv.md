@@ -1,6 +1,6 @@
 # **YANINA ARUTSIUNIAN**
 
-![Yanina Arutsiunian](/foto/Ellipse%205.png)
+![Yanina Arutsiunian](foto/Ellipse5.png)
 
 ### **DESIRED POSITION** :
 
