@@ -1,6 +1,6 @@
 # **YANINA ARUTSIUNIAN**
 
-![Описание картинки](/foto/Ellipse%205.png)
+![Yanina Arutsiunian](/foto/Ellipse%205.png)
 
 ### **DESIRED POSITION** :
 
@@ -11,6 +11,8 @@ Krakow / Poland
 
 tel: +48 505 029 732
 
+discord nickname : YanaFeyeriya
+
 feyeriyalive@gmail.com
 
 ### **ABOUT** :
@@ -19,7 +21,7 @@ Age : 38
 Internship, study in a company, 
 
 work as a junior specialist ,
-     
+
 support manager, site administrator
 
 
