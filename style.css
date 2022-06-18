@@ -1,0 +1,27 @@
+.subheader_name {
+    background-color: #adb5bd;
+}
+
+.promo_about {
+    background-color: #F0F8FF;
+}
+.agreement {
+    background-color: #F0F8FF; 
+}
+.user_links {
+    background-color: #2F4F4F;
+}
+
+h1 {
+    font-size: 56px;
+    margin-top: 50px;
+}
+h3 {
+    font-size: 28px;
+}
+p {
+    font-size: 20px;
+}
+.foto {
+    margin-top: 28px;
+}
