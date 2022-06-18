@@ -1,39 +1,76 @@
+* a {
+    text-decoration: none;
+    color: black;
+}
+.projects_link:hover {
+    text-decoration: none;
+    color: #818181;
+}
+
+.menu {
+    background-color: #adb5bd;
+    height: 60px;
+    display: flex;
+    padding: 13px 70px;
+    list-style-type: none;
+}
+.menu_link {
+    color: #000000;
+    font-size: 15px;
+    font-weight: 300;
+    margin-right: 10px;
+}
+.menu_link:hover {
+    text-decoration: none;
+    color: #ffffff;
+}
+.menu_item {
+    text-transform: uppercase;
+    padding-right: 25px;
+}
+.menu_item:last-child {
+    border-right: none;
+}
 .subheader_name {
     background-color: #adb5bd;
 }
-
 .promo_about {
     background-color: #F0F8FF;
 }
 .user_links {
-    background-color: #2F4F4F;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    background-color: #adb5bd;
+    padding: 20px 0 20px 0;
     color:white;
 }
 
 h1 {
-    font-size: 56px;
+    font-size: 48px;
     margin-top: 50px;
 }
+h2 {
+    font-size: 32px;
+    text-transform: uppercase;
+}
 h3 {
-    font-size: 28px;
+    font-size: 24px;
     text-transform: uppercase;
 }
 p {
-    font-size: 20px;
+    font-size: 18px;
 }
 .foto {
-    margin-top: 28px;
+    margin-top: 10px;
 }
 .about_me {
     margin-top: 50px;
 }
 .agreement {
-    margin-bottom: 50px;
+    padding-bottom: 50px;
     font-style: italic;
 }
 .about_agreement {
     margin-top: 50px;
 }
-
+footer {
+    margin-bottom: 30px;
+}
