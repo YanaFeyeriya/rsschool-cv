@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+* a {
+    font-family: 'Red Hat Text', sans-serif;
+}
+body {
+
+}
+
+header {
+    display: flex;
+    align-items: center;
+    height: 90px;
+    background-color: rgb(242, 120, 92);
+    box-shadow: 0 4px 4px 0px rgba(13, 96, 111, 0.5);
+}
+header .logo {
+    margin-right: 165px;
+    margin-left: 120px;
+}
+
+.items_menu li {
+    display: inline-block;
+    font-family: 'Red Hat Text', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    margin-right: 42px;
+    color: #ffffff;
+}
+header .btn {
+    align-items: center;
+}
+header .btn >a {
+    text-decoration: none;
+    border-radius: 10px;
+}
+header .btn .menu_btn {
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+    background-color: #0D606F; 
+    padding: 10px 31px;
+    margin-left: 155px;
+    box-shadow: 0 4px 4px 1px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 2px 1px rgba(13, 96, 111, 1)(0, 0, 0, 0.2);
+}
